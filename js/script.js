@@ -8,13 +8,13 @@ let decr = 10;
 // incr++;
 // decr--;
 console.log(++decr);
-console.log(--incr)
+console.log(--incr);
 
 
-console.log(2*4===8);
+console.log(2 * 4 === 8);
 
 
 const isChecked = false,
-isClose = true;
+    isClose = true;
 
-console.log(isChecked||isClose);
+console.log(isChecked || isClose);
